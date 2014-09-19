@@ -6,7 +6,7 @@
 
 
 
-Speed Test app. To start working immediately with speed test, just click "Start Test" and in few seconds you'll get your internet speed results.
+***Speed Test*** app. To start working immediately with speed test, just click "Start Test" and in few seconds you'll get your internet speed results.
 
 * (1) Best server location, sampling testing and feedback the ping response time
 * (2) Sampling inspection network download bandwidth speed
