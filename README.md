@@ -2,6 +2,10 @@
 
 ![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/logo_64.png)
 
+[![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_124/v1411092419/app-store-button_pw05je.png)](https://itunes.apple.com/us/app/speed-test-now-check-your/id721474844?l=zh&ls=1&mt=12)
+
+
+
 Speed Test app. To start working immediately with speed test, just click "Start Test" and in few seconds you'll get your internet speed results.
 
 * (1) Best server location, sampling testing and feedback the ping response time
