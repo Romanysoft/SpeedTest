@@ -26,5 +26,6 @@
 * （2）Test speed is too slow (now added two detection server address) 【※※※】
 * （3）History too few, UI poor performance【※】
 
-![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/2014-09-16_213905.png)
-![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/2014-09-16_224322.png)
+![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/c1.png)
+![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/c2.png)
+![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/c3.png)
