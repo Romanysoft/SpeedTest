@@ -18,13 +18,6 @@
 
 ***
 
-**What's new?**
-=========================== _**version 4.14.09815**_
-* 1.The new UI design【※※※】
-* 2.Fixes the following issues:
-* （1）Most users can not test speed 【※※※】
-* （2）Test speed is too slow (now added two detection server address) 【※※※】
-* （3）History too few, UI poor performance【※】
 
 ![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/c1.png)
 ![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/c2.png)
