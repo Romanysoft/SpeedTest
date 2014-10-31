@@ -21,11 +21,11 @@
 
 Version:4.14.10825
 
-![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/4.14.10825/c1.png)
-![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/4.14.10825/c2.png)
-![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/4.14.10825/c3.png)
-![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/4.14.10825/c4.png)
-![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/4.14.10825/c5.png)
+![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/4.14.10825/c1.jpg)
+![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/4.14.10825/c2.jpg)
+![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/4.14.10825/c3.jpg)
+![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/4.14.10825/c4.jpg)
+![](https://github.com/Romanysoft/SpeedTest/blob/master/Images/4.14.10825/c5.jpg)
 
 
 old version
