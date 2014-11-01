@@ -1,6 +1,4 @@
 
-![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_128/v1414717058/logo_nufq3f.png)
-
 ![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,h_128/v1413431600/logo5_a5zbpb.png)
 
 [![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_124/v1411092419/app-store-button_pw05je.png)](https://itunes.apple.com/us/app/speed-test-now-check-your/id721474844?l=zh&ls=1&mt=12)
