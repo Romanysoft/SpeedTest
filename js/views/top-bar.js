@@ -20,7 +20,7 @@
             {name:l10n["Downloads"] || "Downloads", url:"./versions.html", target:"_self"},
             {name:l10n["Buy"] || "Buy", url:"./buy.html", target:"_self"},
             {name:l10n["ReportIssue"] || "ReportIssue", url:RTYConfig.reportIssueUrl ||"", target:"_blank"},
-            {name:l10n["Languages"] || "Languages", url:"./languages.html", target:"_self"},
+            //{name:l10n["Languages"] || "Languages", url:"./languages.html", target:"_self"},
         ];
         
         var htmlContent = template('topbar-content-tmpl', {list:navgList});
