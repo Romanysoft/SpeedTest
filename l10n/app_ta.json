@@ -1,0 +1,81 @@
+{
+    "TopBar": {
+        "Home": "முகப்பு",
+        "Feature": "அம்சங்கள்",
+        "Video": "காணொளி",
+        "ReleaseNotes": "சேஞ்ச்",
+        "Downloads": "பதிவிறக்க",
+        "Buy": "வாங்க",
+        "Documents": "ஆவணம்",
+        "ReportIssue": "சிக்கல்கள்",
+        "Languages": "மொழிகள்"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "இப்போது உங்கள் இணைய வேகம் பார்க்கலாம்.",
+        "BtnDownload": "இலவச சோதனை",
+        "BtnBuy": "வாங்க",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "முக்கிய அம்சங்கள்",
+            "list": [
+                "சிறந்த சர்வர் இடம், மாதிரி சோதனை மற்றும் கருத்துக்களை பிங் பதில் நேரம்.",
+                "மாதிரி ஆய்வு நெட்வொர்க் பதிவிறக்க அகலக்கற்றை வேகம்",
+                "மாதிரி ஆய்வு நெட்வொர்க் பதிவேற்ற அகலக்கற்றை வேகம்",
+                "முழுமையான நெட்வொர்க் கண்டறிதல் முடிவு"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "{{Wonderful things people are saying about SpeedTest}}",
+            "list": [
+                {
+                    "reviewContent": "{{I have been using this app through several versions, along with other apps that also perform speed tests. In my experience, this app has turned out to be the most reliable and accurate of all that I have used to date. Each update is welcome because of refined performance and acuracy of the app. Unlike other apps that I have used to test download and upload speed, this app has not disappointed. Having been an IT professional for some 30 years, primarily in data warehousing/big data, I can say that this app is quite valuable for me in determining potential performance issues, when working remotely.}}",
+                    "userName": "{{cyberspots}}",
+                    "professional": "{{IT}}"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": []
+    },
+    "VersionPage": {
+        "labelVersion": "பதிப்பு",
+        "list": [
+            {
+                "version": "{{6.5.1}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.5.1-darwin-x64.zip}}",
+                        "size": "{{22MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4nmhix2akiv3/SpeedTest-v6.5.1-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "வாங்க",
+        "list": [
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$5.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-1}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "கிடைக்கும் மொழி (எம்டி)",
+        "ChangeAlert": "முடிக்க மொழி மாற்றம் செய்ய"
+    }
+}

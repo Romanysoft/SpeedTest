@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/app.css" media="screen">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/logo_144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/logo_114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/logo_72.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/logo_57.png">
+    <link rel="shortcut icon" href="images/ico/logo_64.png">
+
+    <script src="js/common/jquery-1.12.3.min.js"></script>
+    <script src="js/common/artTemplate/3.0/template.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/google-analytics.js"></script>
+</head>
+
+<body>
+    <section class="top-bar">
+    </section>
+    
+    <section class="main-content">
+        <div class="section-releasenotes">
+        </div>
+
+      
+        <h3></h3>
+        <footer class="site-footer">
+        </footer>
+
+    </section>
+        
+    <!-- TopBar template -->
+     <script id="topbar-content-tmpl" type="text/html">
+          <div class="wrapper no-pad">
+               <ul class="navigation">
+                 {{each list as navigation}}
+                     <li><a href="{{#navigation.url}}" target="{{#navigation.target}}">{{navigation.name}}</a></li>
+                 {{/each}}
+              </ul>
+         </div>
+    </script>
+    
+    
+    <!--- Changelog template --->
+    <script id="changelog-content-tmpl" type="text/html">
+        {{each list as oneVersion}}
+        <h3><a id="app-features" class="anchor" href="" aria-hidden="true"><span class="octicon octicon-link"></span></a>{{labelVersion}} {{#oneVersion.version}}  <sub>{{#oneVersion["updateDate"] || "" }}</sub></h3>
+        <div>
+            <ul class="changelog-list">
+                {{each oneVersion.list as changelog}}
+                <li>
+                    <small class="text-muted right">{{changelog.platform}}</small>
+                    <span class="octicon octicon-package left text-muted "></span>
+                    <strong>{{changelog.content}}</strong>
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+        {{/each}}
+    </script>
+    
+    <script src="js/l10n.js"></script>
+    <script src="js/views/top-bar.js"></script>
+    <script src="js/views/footer.js"></script>
+    <script src="js/views/view-releasenotes-page.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

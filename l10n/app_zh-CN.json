@@ -1,0 +1,81 @@
+{
+    "TopBar": {
+        "Home": "家",
+        "Feature": "特征",
+        "Video": "视频",
+        "ReleaseNotes": "更新日志",
+        "Downloads": "下载",
+        "Buy": "购买",
+        "Documents": "文档",
+        "ReportIssue": "问题",
+        "Languages": "语言"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "现在，请检查您的上网速度。",
+        "BtnDownload": "免费试用",
+        "BtnBuy": "购买",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "主要特点",
+            "list": [
+                "最佳服务器位置，采样测试和反馈的ping响应时间。",
+                "抽样检验的网络下载带宽速度",
+                "抽样检验网络上传带宽速度",
+                "全面的网络检测结果"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "{{Wonderful things people are saying about SpeedTest}}",
+            "list": [
+                {
+                    "reviewContent": "{{I have been using this app through several versions, along with other apps that also perform speed tests. In my experience, this app has turned out to be the most reliable and accurate of all that I have used to date. Each update is welcome because of refined performance and acuracy of the app. Unlike other apps that I have used to test download and upload speed, this app has not disappointed. Having been an IT professional for some 30 years, primarily in data warehousing/big data, I can say that this app is quite valuable for me in determining potential performance issues, when working remotely.}}",
+                    "userName": "{{cyberspots}}",
+                    "professional": "{{IT}}"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": []
+    },
+    "VersionPage": {
+        "labelVersion": "版",
+        "list": [
+            {
+                "version": "{{6.5.1}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.5.1-darwin-x64.zip}}",
+                        "size": "{{22MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4nmhix2akiv3/SpeedTest-v6.5.1-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "购买",
+        "list": [
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$5.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-1}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "可用的语言（MT）",
+        "ChangeAlert": "切换语言来完成"
+    }
+}

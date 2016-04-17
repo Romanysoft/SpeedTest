@@ -10,7 +10,6 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/app.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/slicebox.css" media="screen">
 
     <!-- Favicons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/logo_144.png">
@@ -19,11 +18,8 @@
     <link rel="apple-touch-icon-precomposed" href="images/ico/logo_57.png">
     <link rel="shortcut icon" href="images/ico/logo_64.png">
 
-    
-    <script src="js/common/modernizr.custom.46884.js"></script>
     <script src="js/common/jquery-1.12.3.min.js"></script>
     <script src="js/common/artTemplate/3.0/template.js"></script>
-    <script src="js/common/jquery.slicebox.min.js"></script>
     <script src="js/config.js"></script>
     <script src="js/google-analytics.js"></script>
 </head>
@@ -32,24 +28,10 @@
     <section class="top-bar">
     </section>
     
-    <section class="page-header">
-        <img src="images/ico/logo_72.png"/>
-        <h1 class="project-name"></h1>
-        <h2 class="project-tagline"></h2>
-        <div class="platform-tags">
-        </div>
-        <a href="./versions.html" class="btn btn-download-link"></a>
-        <a href="./buy.html" class="btn btn-buy-link"></a>
-        <a href="//www.romanysoft.com" target="_blank" class="btn btn-learnmore-link"></a>
-    </section>
-
     <section class="main-content">
-        <div class="app-screens">
-        </div>
         <div class="section-features">
         </div>
-        <div class="section-reviews">
-        </div>
+      
         <h3></h3>
         <footer class="site-footer">
         </footer>
@@ -67,32 +49,6 @@
          </div>
     </script>
     
-    <!-- Platform template -->
-    <script id="platform-content-tmpl" type="text/html">
-        <p>
-            {{each list as imgUrl}}
-            <a href="./versions.html">
-                <img src="images/platform/{{imgUrl}}.png" style="width:64px">
-            </a>
-            {{/each}}
-        </p>
-    </script>
-    
-    <!-- Scrrens template -->
-    <script id="screen-content-tmpl" type="text/html">
-        <div class="wrapper">
-            <ul id="sb-slider" class="sb-slider">
-                {{each list as imgUrl}}
-                <li>
-                    <img src="{{imgUrl}}">
-                </li>
-                {{/each}}
-            </ul>
-            <div id="shadow" class="shadow"></div>
-        </div>
-
-    </script>
-    
     <!--- Features template --->
     <script id="features-content-tmpl" type="text/html">
         <h3><a id="app-features" class="anchor" href="" aria-hidden="true"><span class="octicon octicon-link"></span></a>{{SectionName}}</h3>
@@ -105,35 +61,31 @@
                 {{/each}}
             </ul>
         </div>
-    </script>
+    </script>    
     
-    <!-- Reviews template--->
-    <script id="review-content-tmpl" type="text/html">
+    <!--- Buy template --->
+    <script id="buy-content-tmpl" type="text/html">
         <h3><a id="app-features" class="anchor" href="" aria-hidden="true"><span class="octicon octicon-link"></span></a>{{SectionName}}</h3>
-        <div class="people-saying-content">
-            <div class="row quotes">
-                {{each list as review}}
-                <div class="span3">
-                    <blockquote>
-                        <p>
-                            {{review.reviewContent}}
-                            <a href=""></a>
-                        </p>
-                        <small><a>{{review.userName}}</a>
-							<br>
-							{{review.professional}}
-                        </small>
-                    </blockquote>
-                </div>
+        <div>
+            <ul class="buy-list">
+                {{each list as buy}}
+                <li>
+                    <a href="{{#buy.buyURL}}">
+                        <small class="text-muted right">{{buy.price}}</small>
+                        <span class="octicon octicon-package left text-muted "></span>
+                        <img src="{{#buy.logo}}"/>
+                        <strong>{{buy.name}}</strong>
+                    </a>
+                </li>
                 {{/each}}
-            </div>
+            </ul>
         </div>
     </script>
-
+    
     <script src="js/l10n.js"></script>
     <script src="js/views/top-bar.js"></script>
     <script src="js/views/footer.js"></script>
-    <script src="js/views/view-index-page.js"></script>
+    <script src="js/views/view-features-page.js"></script>
     <script src="js/app.js"></script>
 </body>
 

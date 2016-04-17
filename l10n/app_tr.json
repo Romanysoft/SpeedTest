@@ -1,0 +1,81 @@
+{
+    "TopBar": {
+        "Home": "ev",
+        "Feature": "Özellikler",
+        "Video": "Video",
+        "ReleaseNotes": "Değişiklik",
+        "Downloads": "indir",
+        "Buy": "satın almak",
+        "Documents": "belgeleme",
+        "ReportIssue": "Sorunlar",
+        "Languages": "Diller"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Şimdi internet hızını kontrol edin.",
+        "BtnDownload": "Ücretsiz deneme",
+        "BtnBuy": "satın almak",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Ana Özellikler",
+            "list": [
+                "En iyi sunucu konumu, örnekleme test ve geribildirim ping tepki süresi.",
+                "Örnekleme muayene ağ indirme bant genişliği hızı",
+                "Örnekleme muayene ağ yükleme bant genişliği hızı",
+                "Komple ağ algılama sonuçları"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "{{Wonderful things people are saying about SpeedTest}}",
+            "list": [
+                {
+                    "reviewContent": "{{I have been using this app through several versions, along with other apps that also perform speed tests. In my experience, this app has turned out to be the most reliable and accurate of all that I have used to date. Each update is welcome because of refined performance and acuracy of the app. Unlike other apps that I have used to test download and upload speed, this app has not disappointed. Having been an IT professional for some 30 years, primarily in data warehousing/big data, I can say that this app is quite valuable for me in determining potential performance issues, when working remotely.}}",
+                    "userName": "{{cyberspots}}",
+                    "professional": "{{IT}}"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": []
+    },
+    "VersionPage": {
+        "labelVersion": "versiyon",
+        "list": [
+            {
+                "version": "{{6.5.1}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.5.1-darwin-x64.zip}}",
+                        "size": "{{22MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4nmhix2akiv3/SpeedTest-v6.5.1-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "satın almak",
+        "list": [
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$5.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-1}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Mevcut dil (MT)",
+        "ChangeAlert": "dilinin değiştirilmesi tamamlamak için"
+    }
+}

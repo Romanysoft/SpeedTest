@@ -1,0 +1,81 @@
+{
+    "TopBar": {
+        "Home": "Nhà",
+        "Feature": "Tính năng",
+        "Video": "Video",
+        "ReleaseNotes": "changelog",
+        "Downloads": "Tải về",
+        "Buy": "Mua",
+        "Documents": "Tài liệu",
+        "ReportIssue": "vấn đề",
+        "Languages": "Ngôn ngữ"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Bây giờ kiểm tra tốc độ internet của bạn.",
+        "BtnDownload": "Dùng thử miễn phí",
+        "BtnBuy": "Mua",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Những đặc điểm chính",
+            "list": [
+                "vị trí tốt nhất máy chủ, kiểm tra lấy mẫu và thông tin phản hồi thời gian phản ứng ping.",
+                "mạng lưới lấy mẫu kiểm tra tốc độ băng thông download",
+                "mạng lưới lấy mẫu kiểm tra tốc độ băng thông tải lên",
+                "Toàn bộ kết quả phát hiện mạng"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "{{Wonderful things people are saying about SpeedTest}}",
+            "list": [
+                {
+                    "reviewContent": "{{I have been using this app through several versions, along with other apps that also perform speed tests. In my experience, this app has turned out to be the most reliable and accurate of all that I have used to date. Each update is welcome because of refined performance and acuracy of the app. Unlike other apps that I have used to test download and upload speed, this app has not disappointed. Having been an IT professional for some 30 years, primarily in data warehousing/big data, I can say that this app is quite valuable for me in determining potential performance issues, when working remotely.}}",
+                    "userName": "{{cyberspots}}",
+                    "professional": "{{IT}}"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": []
+    },
+    "VersionPage": {
+        "labelVersion": "Phiên bản",
+        "list": [
+            {
+                "version": "{{6.5.1}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.5.1-darwin-x64.zip}}",
+                        "size": "{{22MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4nmhix2akiv3/SpeedTest-v6.5.1-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Mua",
+        "list": [
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$5.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-1}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ngôn ngữ có sẵn (MT)",
+        "ChangeAlert": "Chuyển đổi ngôn ngữ để hoàn thành"
+    }
+}

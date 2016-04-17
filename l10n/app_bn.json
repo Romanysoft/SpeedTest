@@ -1,0 +1,81 @@
+{
+    "TopBar": {
+        "Home": "বাড়ি",
+        "Feature": "বৈশিষ্ট্য",
+        "Video": "ভিডিও",
+        "ReleaseNotes": "পরিবর্তণের",
+        "Downloads": "ডাউনলোড",
+        "Buy": "কেনা",
+        "Documents": "ডকুমেন্টেশন",
+        "ReportIssue": "সমস্যা",
+        "Languages": "ভাষাসমূহ"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "এখন আপনার ইন্টারনেট গতি পরীক্ষা.",
+        "BtnDownload": "বিনামূল্যে ট্রায়াল",
+        "BtnBuy": "কেনা",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "প্রধান বৈশিষ্ট্য",
+            "list": [
+                "শ্রেষ্ঠ সার্ভার অবস্থান, স্যাম্পলিং পরীক্ষা এবং প্রতিক্রিয়া পিং প্রতিক্রিয়া সময়.",
+                "নমুনা পরিদর্শন নেটওয়ার্কের ডাউনলোড ব্যান্ডউইথ গতি",
+                "নমুনা পরিদর্শন নেটওয়ার্ক আপলোড ব্যান্ডউইথ গতি",
+                "সম্পূর্ণ নেটওয়ার্কের সনাক্তকরণ ফলাফল"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "{{Wonderful things people are saying about SpeedTest}}",
+            "list": [
+                {
+                    "reviewContent": "{{I have been using this app through several versions, along with other apps that also perform speed tests. In my experience, this app has turned out to be the most reliable and accurate of all that I have used to date. Each update is welcome because of refined performance and acuracy of the app. Unlike other apps that I have used to test download and upload speed, this app has not disappointed. Having been an IT professional for some 30 years, primarily in data warehousing/big data, I can say that this app is quite valuable for me in determining potential performance issues, when working remotely.}}",
+                    "userName": "{{cyberspots}}",
+                    "professional": "{{IT}}"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": []
+    },
+    "VersionPage": {
+        "labelVersion": "সংস্করণ",
+        "list": [
+            {
+                "version": "{{6.5.1}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.5.1-darwin-x64.zip}}",
+                        "size": "{{22MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4nmhix2akiv3/SpeedTest-v6.5.1-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "কেনা",
+        "list": [
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$5.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-1}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "উপলভ্য ভাষা (এমটি)",
+        "ChangeAlert": "স্যুইচিং ভাষা সম্পন্ন করার"
+    }
+}

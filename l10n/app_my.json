@@ -1,0 +1,81 @@
+{
+    "TopBar": {
+        "Home": "နေအိမ်",
+        "Feature": "အင်္ဂါရပ်များ",
+        "Video": "ဗီဒီယို",
+        "ReleaseNotes": "ChangeLog",
+        "Downloads": "ဒေါင်းလုပ်",
+        "Buy": "ယ်ယူရန်",
+        "Documents": "မှတ်တမ်း",
+        "ReportIssue": "ကိစ္စရပ်များကို",
+        "Languages": "ဘာသာစကားများ"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "အခုသင့်ရဲ့အင်တာနက်အမြန်နှုန်းကိုစစ်ဆေးပါ။",
+        "BtnDownload": "အခမဲ့စမ်းသပ်",
+        "BtnBuy": "ယ်ယူရန်",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "အဓိကအင်္ဂါရပ်များ",
+            "list": [
+                "အကောင်းဆုံးဆာဗာကိုတည်နေရာ, နမူနာကိုစမ်းသပ်နှင့်တုံ့ပြန်ချက် ping ရဲ့တုန့်ပြန်အချိန်။",
+                "နမူနာစစ်ဆေးခြင်းကွန်ယက်ကို download, bandwidth ကိုမြန်နှုန်း",
+                "နမူနာစစ်ဆေးခြင်းကွန်ယက်ကိုအပ်လုဒ်ကို bandwidth ကိုမြန်နှုန်း",
+                "အပြီးအစီးကွန်ယက်ကိုထောက်လှမ်းရလဒ်များကို"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "{{Wonderful things people are saying about SpeedTest}}",
+            "list": [
+                {
+                    "reviewContent": "{{I have been using this app through several versions, along with other apps that also perform speed tests. In my experience, this app has turned out to be the most reliable and accurate of all that I have used to date. Each update is welcome because of refined performance and acuracy of the app. Unlike other apps that I have used to test download and upload speed, this app has not disappointed. Having been an IT professional for some 30 years, primarily in data warehousing/big data, I can say that this app is quite valuable for me in determining potential performance issues, when working remotely.}}",
+                    "userName": "{{cyberspots}}",
+                    "professional": "{{IT}}"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": []
+    },
+    "VersionPage": {
+        "labelVersion": "ဗားရှင်း",
+        "list": [
+            {
+                "version": "{{6.5.1}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.5.1-darwin-x64.zip}}",
+                        "size": "{{22MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4nmhix2akiv3/SpeedTest-v6.5.1-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "ယ်ယူရန်",
+        "list": [
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$5.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-1}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ရရှိနိုင်ဘာသာစကား (MT)",
+        "ChangeAlert": "ဖြည့်စွက်ဖို့ဘာသာစကား switching"
+    }
+}

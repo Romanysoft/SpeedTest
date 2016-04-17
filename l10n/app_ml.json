@@ -1,0 +1,81 @@
+{
+    "TopBar": {
+        "Home": "വീട്",
+        "Feature": "സവിശേഷതകൾ",
+        "Video": "വീഡിയോ",
+        "ReleaseNotes": "ചേയ്ഞ്ച്ലോഗ്",
+        "Downloads": "ഇറക്കുമതി",
+        "Buy": "വാങ്ങാൻ",
+        "Documents": "വിവരണക്കുറിപ്പു്",
+        "ReportIssue": "പ്രശ്നങ്ങൾ",
+        "Languages": "ഭാഷകൾ"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "ഇപ്പോൾ നിങ്ങളുടെ ഇന്റർനെറ്റ് സ്പീഡ് പരിശോധിക്കുക.",
+        "BtnDownload": "സൗജന്യ ട്രയൽ",
+        "BtnBuy": "വാങ്ങാൻ",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "പ്രധാന സവിശേഷതകൾ",
+            "list": [
+                "മികച്ച സെർവർ ലൊക്കേഷൻ, ഒരുപറ്റം പരിശോധനയ്ക്കും ഫീഡ്ബാക്ക് പിംഗ് പ്രതികരണവും.",
+                "സാംപ്ലിങ്റേറ്റ്സ് പരിശോധന നെറ്റ്വർക്ക് ഡൗൺലോഡ് ബാൻഡ്വിഡ്ത് സ്പീഡ്",
+                "സാംപ്ലിങ്റേറ്റ്സ് പരിശോധന നെറ്റ്വർക്ക് അപ്ലോഡ് ബാൻഡ്വിഡ്ത് സ്പീഡ്",
+                "സമ്പൂർണ്ണ നെറ്റ്വർക്ക് കണ്ടെത്തൽ ഫലങ്ങൾ"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "{{Wonderful things people are saying about SpeedTest}}",
+            "list": [
+                {
+                    "reviewContent": "{{I have been using this app through several versions, along with other apps that also perform speed tests. In my experience, this app has turned out to be the most reliable and accurate of all that I have used to date. Each update is welcome because of refined performance and acuracy of the app. Unlike other apps that I have used to test download and upload speed, this app has not disappointed. Having been an IT professional for some 30 years, primarily in data warehousing/big data, I can say that this app is quite valuable for me in determining potential performance issues, when working remotely.}}",
+                    "userName": "{{cyberspots}}",
+                    "professional": "{{IT}}"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": []
+    },
+    "VersionPage": {
+        "labelVersion": "പതിപ്പ്",
+        "list": [
+            {
+                "version": "{{6.5.1}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.5.1-darwin-x64.zip}}",
+                        "size": "{{22MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4nmhix2akiv3/SpeedTest-v6.5.1-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "വാങ്ങാൻ",
+        "list": [
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$5.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-1}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ലഭ്യമായ ഭാഷ (മെട്രിക്)",
+        "ChangeAlert": "പൂർത്തിയാക്കാൻ ഭാഷ സ്വിച്ചിംഗ്"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "download",
+        "Buy": "buy",
+        "Documents": "takardun",
+        "ReportIssue": "batutuwa",
+        "Languages": "Languages"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Yanzu duba ka internet gudun.",
+        "BtnDownload": "free Trial",
+        "BtnBuy": "buy",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+                "Best uwar garken location, daukan samfur gwaji da kuma feedback da ping amsa lokaci.",
+                "Samfur dubawa na cibiyar sadarwa download bandwidth gudun",
+                "Samfur dubawa na cibiyar sadarwa upload bandwidth gudun",
+                "Complete cibiyar ganewa sakamakon"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "{{Wonderful things people are saying about SpeedTest}}",
+            "list": [
+                {
+                    "reviewContent": "{{I have been using this app through several versions, along with other apps that also perform speed tests. In my experience, this app has turned out to be the most reliable and accurate of all that I have used to date. Each update is welcome because of refined performance and acuracy of the app. Unlike other apps that I have used to test download and upload speed, this app has not disappointed. Having been an IT professional for some 30 years, primarily in data warehousing/big data, I can say that this app is quite valuable for me in determining potential performance issues, when working remotely.}}",
+                    "userName": "{{cyberspots}}",
+                    "professional": "{{IT}}"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": []
+    },
+    "VersionPage": {
+        "labelVersion": "version",
+        "list": [
+            {
+                "version": "{{6.5.1}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.5.1-darwin-x64.zip}}",
+                        "size": "{{22MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4nmhix2akiv3/SpeedTest-v6.5.1-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "buy",
+        "list": [
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$5.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-1}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Rasu harshe (MT)",
+        "ChangeAlert": "Sauya sheka harshe don kammala"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "TopBar": {
+        "Home": "घर",
+        "Feature": "विशेषताहरु",
+        "Video": "भिडियो",
+        "ReleaseNotes": "changelog",
+        "Downloads": "डाउनलोड",
+        "Buy": "किन्न",
+        "Documents": "दस्तावेज",
+        "ReportIssue": "मुद्दा",
+        "Languages": "भाषाहरु"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "अब तपाईंको इन्टरनेट गति जाँच गर्नुहोस्।",
+        "BtnDownload": "निशुल्क परिक्षण",
+        "BtnBuy": "किन्न",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "मुख्य विशेषताहरु",
+            "list": [
+                "सर्वश्रेष्ठ सर्भर स्थान, नमूना परीक्षण र प्रतिक्रिया पिंग प्रतिक्रिया समय।",
+                "नमूना निरीक्षण नेटवर्क डाउनलोड ब्यान्डविथ गति",
+                "नमूना निरीक्षण नेटवर्क अपलोड ब्यान्डविथ गति",
+                "नेटवर्क पत्ता लगाउने परिणाम पूरा"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "{{Wonderful things people are saying about SpeedTest}}",
+            "list": [
+                {
+                    "reviewContent": "{{I have been using this app through several versions, along with other apps that also perform speed tests. In my experience, this app has turned out to be the most reliable and accurate of all that I have used to date. Each update is welcome because of refined performance and acuracy of the app. Unlike other apps that I have used to test download and upload speed, this app has not disappointed. Having been an IT professional for some 30 years, primarily in data warehousing/big data, I can say that this app is quite valuable for me in determining potential performance issues, when working remotely.}}",
+                    "userName": "{{cyberspots}}",
+                    "professional": "{{IT}}"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": []
+    },
+    "VersionPage": {
+        "labelVersion": "संस्करण",
+        "list": [
+            {
+                "version": "{{6.5.1}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.5.1-darwin-x64.zip}}",
+                        "size": "{{22MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4nmhix2akiv3/SpeedTest-v6.5.1-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "किन्न",
+        "list": [
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$5.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-1}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "उपलब्ध भाषा (टन)",
+        "ChangeAlert": "पूरा भाषा स्विच गर्न"
+    }
+}
