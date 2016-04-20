@@ -68,10 +68,13 @@
         "SectionName": "Buy",
         "list": [
             {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "name": "{{SpeedTest for Mac}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$5.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-1}}"
+            },{
+                "name": "{{SpeedTest for Mac}}",
+                "logo": "{{images/buy/mas.png}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/speed-test-now-check-your/id721474844?l=zh&ls=1&mt=12}}"
             }
         ]
     },

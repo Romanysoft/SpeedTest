@@ -58,8 +58,8 @@
             <ul class="buy-list">
                 {{each list as buy}}
                 <li>
-                    <a href="{{#buy.buyURL}}">
-                        <small class="text-muted right">{{buy.price}}</small>
+                    <a href="{{#buy.buyURL}}" target="_blank">
+                        <button class="right">Buy</button>
                         <span class="octicon octicon-package left text-muted "></span>
                         <img src="{{#buy.logo}}"/>
                         <strong>{{buy.name}}</strong>
