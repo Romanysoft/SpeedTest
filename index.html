@@ -80,7 +80,7 @@
     
     <!-- Scrrens template -->
     <script id="screen-content-tmpl" type="text/html">
-        <div class="wrapper">
+        <div class="imageListWrapper">
             <ul id="sb-slider" class="sb-slider">
                 {{each list as imgUrl}}
                 <li>
@@ -91,6 +91,15 @@
             <div id="shadow" class="shadow"></div>
         </div>
 
+        <div class="imageListWrapper">
+            <ul>
+                {{each list as imgUrl}}
+                <li>
+                    <img src="{{imgUrl}}">
+                </li>
+                {{/each}}
+            </ul>
+        </div>
     </script>
     
     <!--- Features template --->
