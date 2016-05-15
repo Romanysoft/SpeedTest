@@ -12,21 +12,21 @@
 
         var l10n = c$.l10nFormatObj(c$.l10n["HomePage"] || {});
         var htmlContent = "";
-
-        // 更新        <h1 class="project-name"></h1>
-        //             <h2 class="project-tagline"></h2>
-        $('.project-name').html(window.RTYConfig.appName);
-        $('.project-tagline').html(l10n["ProjectTagline"]);
-
-        $('.btn-download-link').html(l10n['BtnDownload']);
-        $('.btn-buy-link').html(l10n['BtnBuy']);
-        $('.btn-learnmore-link').html(l10n['BtnLearnMore'] || "WWW.ROMANYSOFT.COM");
-        
-        // 更新支持的平台
-        htmlContent = template('platform-content-tmpl',{
-            list: RTYConfig.supportPlatforms
+ 
+        /**
+        *** 更新页头部分的数据
+        **/
+        htmlContent = template('page-header-content-tmpl',{
+            appName: window.RTYConfig.appName,
+            appDescription: l10n["ProjectTagline"],
+            supportPlatfroms: RTYConfig.supportPlatforms,
+            btnList:[
+                {href: "./versions.html", title: l10n['BtnDownload'] || "Download", class:"btn-download", description: l10n['BtnDownloadDescription'] || "Free | Official trial version."}
+                ,{href: "./buy.html", title: l10n['BtnBuy'] || "Buy", class:"btn-download", description: l10n['BtnBuyDescription'] || " | Official free upgrade."}
+                ,{href: "//www.romanysoft.com", title: l10n['BtnLearnMore'] || "www.romanysoft.com", class:"btn-romanysoft", description: ""}
+            ]
         });
-        $('.platform-tags').html(htmlContent);
+        $('.page-header').html(htmlContent);
 
         // 更新Screents
         htmlContent = template('screen-content-tmpl', {
@@ -48,35 +48,40 @@
         });
         $('.section-reviews').html(htmlContent);
 
-        $(function() {
-            var Page = (function() {
-                var $navArrows = $('#nav-arrows').hide(),
-                    $shadow = $('#shadow').hide(),
-                    slicebox = $('#sb-slider').slicebox({
-                        onReady: function() {
-                            $navArrows.show();
-                            $shadow.show();
-                        },
-                        orientation: 'r',
-                        cuboidsRandom: true,
-                        disperseFactor: 30
-                    }),
+        // 是否需要图片旋转
+        var wantSlider = false;
+        if(wantSlider){
+            $(function() {
+                var Page = (function() {
+                    var $navArrows = $('#nav-arrows').hide(),
+                        $shadow = $('#shadow').hide(),
+                        slicebox = $('#sb-slider').slicebox({
+                            onReady: function() {
+                                $navArrows.show();
+                                $shadow.show();
+                            },
+                            orientation: 'r',
+                            cuboidsRandom: true,
+                            disperseFactor: 30
+                        }),
 
-                    init = function() {
-                        initEvents();
-                    },
-                    initEvents = function() {
-                        setInterval(function(){slicebox.next()}, 2500);
+                        init = function() {
+                            initEvents();
+                        },
+                        initEvents = function() {
+                            setInterval(function(){slicebox.next()}, 2500);
+                        };
+
+                    return {
+                        init: init
                     };
 
-                return {
-                    init: init
-                };
+                })();
 
-            })();
+                Page.init();
+            });
+        }
 
-            Page.init();
-        });
     };
 
     c$.MC_l10n.add(c$.updateHomePage);

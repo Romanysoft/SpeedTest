@@ -33,14 +33,6 @@
     </section>
     
     <section class="page-header">
-        <img src="images/ico/logo_72.png"/>
-        <h1 class="project-name"></h1>
-        <h2 class="project-tagline"></h2>
-        <div class="platform-tags">
-        </div>
-        <a href="./versions.html" class="btn btn-download-link"></a>
-        <a href="./buy.html" class="btn btn-buy-link"></a>
-        <a href="//www.romanysoft.com" target="_blank" class="btn btn-learnmore-link"></a>
     </section>
 
     <section class="main-content">
@@ -53,8 +45,8 @@
         <h3></h3>
         <footer class="site-footer">
         </footer>
-
     </section>
+    
         
     <!-- TopBar template -->
      <script id="topbar-content-tmpl" type="text/html">
@@ -65,6 +57,32 @@
                  {{/each}}
               </ul>
          </div>
+    </script>
+    
+    <!-- page-header-content-tmpl -->
+    <script id="page-header-content-tmpl" type="text/html">
+        <img src="images/ico/logo_72.png"/>
+        <h1 class="project-name">{{ appName }}</h1>
+        <h2 class="project-tagline">{{ appDescription }}</h2>
+        <div class="platform-tags">
+            <p>
+                {{each supportPlatfroms as spImgUrl}}
+                <a href="./versions.html">
+                    <img src="images/platform/{{spImgUrl}}.png" style="width:64px">
+                </a>
+                {{/each}}
+            </p>
+        </div>
+        
+        <div class="wrapper-btn-group">
+            {{each btnList as btnObj}}
+            <a href="{{btnObj.href}}" class="btn {{btnObj.class}}">
+                <span class="large">{{ btnObj.title }}</span>
+                <br>
+                <span class="small">{{ btnObj.description }}</span>
+            </a>
+            {{/each}}
+        </div>
     </script>
     
     <!-- Platform template -->

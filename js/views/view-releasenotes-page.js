@@ -10,7 +10,9 @@
     
     c$.updateReleasenotesPage = function(){
         try{
-            window.location.href = RTYConfig.changeLogUrl;
+            if(window.location.href != RTYConfig.changeLogUrl){
+                window.location.href = RTYConfig.changeLogUrl;
+            }
         }catch(e){
             console.error(e);
         }

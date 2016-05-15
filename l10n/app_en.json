@@ -13,8 +13,10 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Now check your internet speed.",
-        "BtnDownload": "Free Trial",
+        "BtnDownload": "Download",
+        "BtnDownloadDescription": "Free | Official trial version.",
         "BtnBuy": "Buy",
+        "BtnBuyDescription": "$5.99 | Official free upgrade.",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
