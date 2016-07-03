@@ -60,12 +60,26 @@
             <ul class="release-downloads">
                 {{each oneVersion.zipList as zip}}
                 <li>
+                  {{ if (typeof zip.downURL.splice == "function") }}
+                    
+                    <small class="text-muted right">{{zip.size}}</small>
+                    <span class="octicon octicon-package left text-muted "></span>
+                    <img src="{{#zip.osUrl}}"/>
+                    <strong>{{zip.name}}</strong>
+                    {{each zip.downURL as url i}}
+                      <a href="{{#url}}" title="Download from {{#url}}">
+                      <sup>&nbsp;&nbsp;[{{++i}}]Download&nbsp;&nbsp;</sup>
+                      </a>
+                    {{/each}}
+                    
+                  {{else}}
                     <a href="{{#zip.downURL}}">
                         <small class="text-muted right">{{zip.size}}</small>
                         <span class="octicon octicon-package left text-muted "></span>
                         <img src="{{#zip.osUrl}}"/>
                         <strong>{{zip.name}}</strong>
                     </a>
+                  {{/if}}
                 </li>
                 {{/each}}
             </ul>

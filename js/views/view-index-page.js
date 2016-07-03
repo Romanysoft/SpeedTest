@@ -49,7 +49,7 @@
         $('.section-reviews').html(htmlContent);
 
         // 是否需要图片旋转
-        var wantSlider = false;
+        var wantSlider = true;
         if(wantSlider){
             $(function() {
                 var Page = (function() {

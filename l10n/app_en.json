@@ -55,12 +55,16 @@
         "list": [
             {
                 "version": "{{6.5.1}}",
+                "updateDate": "{{2016.03.28}}",
                 "zipList": [
                     {
                         "osUrl": "{{images/download/osx.png}}",
                         "name": "{{SpeedTest-v6.5.1-darwin-x64.zip}}",
-                        "size": "{{22MB}}",
-                        "downURL": "{{http://www.filefactory.com/file/4nmhix2akiv3/SpeedTest-v6.5.1-darwin-x64.zip}}"
+                        "size": "{{21MB}}",
+                        "downURL": [
+                            "{{http://www.filefactory.com/file/rdsxq8u9p39/SpeedTest-v6.5.1-darwin-x64.dmg}}",
+                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.5.1/SpeedTest-v6.5.1-darwin-x64.dmg}}"
+                        ]
                     }
                 ]
             }
@@ -73,10 +77,6 @@
                 "name": "{{SpeedTest for Mac}}",
                 "logo": "{{images/buy/buy.png}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-1}}"
-            },{
-                "name": "{{SpeedTest for Mac}}",
-                "logo": "{{images/buy/mas.png}}",
-                "buyURL": "{{https://itunes.apple.com/us/app/speed-test-now-check-your/id721474844?l=zh&ls=1&mt=12}}"
             }
         ]
     },
