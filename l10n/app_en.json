@@ -59,7 +59,7 @@
                 "zipList": [
                     {
                         "osUrl": "{{images/download/osx.png}}",
-                        "name": "{{SpeedTest-v6.5.1}}",
+                        "name": "{{SpeedTest-v6.5.1-darwin-x64}}",
                         "size": "{{21MB}}",
                         "downURL": [
                             "{{http://www.filefactory.com/file/rdsxq8u9p39/SpeedTest-v6.5.1-darwin-x64.dmg}}",
