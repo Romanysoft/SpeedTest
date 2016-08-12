@@ -18,10 +18,10 @@
         "BtnBuy": "Buy",
         "BtnBuyDescription": "$5.99 | Official free upgrade.",
         "Screens": [
-            "{{images/screens/common/osx_1.png}}",
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
             "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
             "{{images/screens/common/c5.jpg}}",
             "{{images/screens/common/win_1.png}}",
             "{{images/screens/common/win_2.png}}",
