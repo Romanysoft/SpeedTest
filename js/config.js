@@ -3,7 +3,7 @@
         appName:"SpeedTest",
         appID:"com.romanysoft.app.macos.speedtest",
         documentTitle:"SpeedTest By Romanysoft",
-        supportPlatforms:["Mac"],
+        supportPlatforms:["Mac","Windows"],
         googleUA:"UA-76676167-6",
         gitHome:"//github.com/Romanysoft/SpeedTest",
         reportIssueUrl:"//github.com/Romanysoft/SpeedTest/issues",

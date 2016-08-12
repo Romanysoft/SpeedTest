@@ -12,17 +12,22 @@
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Now check your internet speed.",
+        "ProjectTagline": "Now check your internet actual speed.",
         "BtnDownload": "Download",
         "BtnDownloadDescription": "Free | Official trial version.",
         "BtnBuy": "Buy",
         "BtnBuyDescription": "$5.99 | Official free upgrade.",
         "Screens": [
+            "{{images/screens/common/osx_1.png}}",
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
             "{{images/screens/common/c3.jpg}}",
-            "{{images/screens/common/c4.jpg}}",
-            "{{images/screens/common/c5.jpg}}"
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/win_1.png}}",
+            "{{images/screens/common/win_2.png}}",
+            "{{images/screens/common/win_3.png}}",
+            "{{images/screens/common/win_4.png}}"
+            
         ],
         "Features": {
             "SectionName": "Main Features",
@@ -54,6 +59,36 @@
         "labelVersion": "Version",
         "list": [
             {
+                "version":"{{6.6.0}}",
+                "updateDate": "{{2016.08.12}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{SpeedTest-v6.6.0-win32-ia32-setup.exe (32 bit)}}",
+                        "size": "{{52MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/48nqxjy6tuo5/SpeedTest-v6.6.0-win32-ia32-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{SpeedTest-v6.6.0-win32-x64-setup.exe (64 bit)}}",
+                        "size": "{{58MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/4ppyjt0qg1ex/SpeedTest-v6.6.0-win32-x64-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.6.0-darwin-x64.dmg (MacOSX 64 bit)}}",
+                        "size": "{{21MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/3acw5tlva8t1/SpeedTest-v6.6.0-darwin-x64.dmg}}"
+                        ]
+                    }
+                ]
+            },             
+            {
                 "version": "{{6.5.1}}",
                 "updateDate": "{{2016.03.28}}",
                 "zipList": [
@@ -73,6 +108,11 @@
     "BuyPage": {
         "SectionName": "Buy",
         "list": [
+            {
+                "name": "{{SpeedTest for Windows}}",
+                "logo": "{{images/buy/buy.png}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-47}}"
+            },
             {
                 "name": "{{SpeedTest for Mac}}",
                 "logo": "{{images/buy/buy.png}}",
