@@ -85,7 +85,7 @@
                         "name": "{{SpeedTest-v6.6.0-darwin-x64.dmg (MacOSX 64 bit)}}",
                         "size": "{{21MB}}",
                         "downURL": [
-                          "{{http://www.filefactory.com/file/3acw5tlva8t1/SpeedTest-v6.6.0-darwin-x64.dmg}}"
+                          "{{http://www.filefactory.com/file/3acw5tlva8t1/SpeedTest-v6.6.0-darwin-x64.dmg}}",
                           "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6/SpeedTest-v6.6.0-darwin-x64.dmg}}"                            
                         ]
                     }
