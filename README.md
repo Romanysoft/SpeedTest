@@ -9,7 +9,7 @@
 
 
 
-***Speed Test*** app. To start working immediately with speed test, just click "Start Test" and in few seconds you'll get your internet speed results.
+***SpeedTest*** app. To start working immediately with speed test, just click "Start" and in few seconds you'll get your internet speed results.
 
 * (1) Best server location, sampling testing and feedback the ping response time
 * (2) Sampling inspection network download bandwidth speed
@@ -20,6 +20,15 @@
 * (7) Support OS X 10.6-10.10 system
 
 ***
+
+Version: 6.6
+
+[![](http://romanysoft.github.io/SpeedTest/images/screens/common/c1.jpg)](http://romanysoft.github.io/SpeedTest)
+[![](http://romanysoft.github.io/SpeedTest/images/screens/common/c2.jpg)](http://romanysoft.github.io/SpeedTest)
+[![](http://romanysoft.github.io/SpeedTest/images/screens/common/win_1.png)](http://romanysoft.github.io/SpeedTest)
+[![](http://romanysoft.github.io/SpeedTest/images/screens/common/win_2.png)](http://romanysoft.github.io/SpeedTest)
+[![](http://romanysoft.github.io/SpeedTest/images/screens/common/win_3.png)](http://romanysoft.github.io/SpeedTest)
+[![](http://romanysoft.github.io/SpeedTest/images/screens/common/win_4.png)](http://romanysoft.github.io/SpeedTest)
 
 Version:4.14.10825
 
