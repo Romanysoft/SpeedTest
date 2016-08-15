@@ -21,7 +21,10 @@
 
 ***
 
-Version: 6.6
+[SpeedTest 6.6.1](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-08-15
+
+* [Bugs] Fixed some bugs.
+* [Upgrade] engine upgrade.
 
 [![](http://romanysoft.github.io/SpeedTest/images/screens/common/c1.jpg)](http://romanysoft.github.io/SpeedTest)
 [![](http://romanysoft.github.io/SpeedTest/images/screens/common/c2.jpg)](http://romanysoft.github.io/SpeedTest)
