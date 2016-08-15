@@ -27,7 +27,6 @@
             "{{images/screens/common/win_2.png}}",
             "{{images/screens/common/win_3.png}}",
             "{{images/screens/common/win_4.png}}"
-            
         ],
         "Features": {
             "SectionName": "Main Features",
@@ -51,15 +50,46 @@
     },
     "FeaturePage": {},
     "DocumentsPage": {
-        "list": [
-
-        ]
+        "list": []
     },
     "VersionPage": {
         "labelVersion": "Version",
         "list": [
             {
-                "version":"{{6.6.0}}",
+                "version": "{{6.6.1}}",
+                "updateDate": "{{2016.08.15}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{SpeedTest-v6.6.1-win32-ia32-setup.exe (32 bit)}}",
+                        "size": "{{49.8MB}}",
+                        "downURL": [
+                            "{{http://www.filefactory.com/file/3jlyz1jykf19/SpeedTest-v6.6.1-win32-ia32-setup.exe}}",
+                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6.1/SpeedTest-v6.6.1-win32-ia32-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{SpeedTest-v6.6.1-win32-x64-setup.exe (64 bit)}}",
+                        "size": "{{56.1MB}}",
+                        "downURL": [
+                            "{{http://www.filefactory.com/file/e6vbmbfect1/SpeedTest-v6.6.1-win32-x64-setup.exe}}",
+                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6.1/SpeedTest-v6.6.1-win32-x64-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.6.1-darwin-x64.dmg (MacOSX 64 bit)}}",
+                        "size": "{{20.2MB}}",
+                        "downURL": [
+                            "{{http://www.filefactory.com/file/2efae72vfuw9/SpeedTest-v6.6.1-darwin-x64.dmg}}",
+                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6.1/SpeedTest-v6.6.1-darwin-x64.dmg}}"
+                        ]
+                    }
+                ]
+            },            
+            {
+                "version": "{{6.6.0}}",
                 "updateDate": "{{2016.08.12}}",
                 "zipList": [
                     {
@@ -67,8 +97,8 @@
                         "name": "{{SpeedTest-v6.6.0-win32-ia32-setup.exe (32 bit)}}",
                         "size": "{{52MB}}",
                         "downURL": [
-                          "{{http://www.filefactory.com/file/48nqxjy6tuo5/SpeedTest-v6.6.0-win32-ia32-setup.exe}}",
-                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6/SpeedTest-v6.6.0-win32-ia32-setup.exe}}"                            
+                            "{{http://www.filefactory.com/file/48nqxjy6tuo5/SpeedTest-v6.6.0-win32-ia32-setup.exe}}",
+                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6/SpeedTest-v6.6.0-win32-ia32-setup.exe}}"
                         ]
                     },
                     {
@@ -76,8 +106,8 @@
                         "name": "{{SpeedTest-v6.6.0-win32-x64-setup.exe (64 bit)}}",
                         "size": "{{58MB}}",
                         "downURL": [
-                          "{{http://www.filefactory.com/file/4ppyjt0qg1ex/SpeedTest-v6.6.0-win32-x64-setup.exe}}",
-                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6/SpeedTest-v6.6.0-win32-x64-setup.exe}}"                             
+                            "{{http://www.filefactory.com/file/4ppyjt0qg1ex/SpeedTest-v6.6.0-win32-x64-setup.exe}}",
+                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6/SpeedTest-v6.6.0-win32-x64-setup.exe}}"
                         ]
                     },
                     {
@@ -85,12 +115,12 @@
                         "name": "{{SpeedTest-v6.6.0-darwin-x64.dmg (MacOSX 64 bit)}}",
                         "size": "{{21MB}}",
                         "downURL": [
-                          "{{http://www.filefactory.com/file/3acw5tlva8t1/SpeedTest-v6.6.0-darwin-x64.dmg}}",
-                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6/SpeedTest-v6.6.0-darwin-x64.dmg}}"                            
+                            "{{http://www.filefactory.com/file/3acw5tlva8t1/SpeedTest-v6.6.0-darwin-x64.dmg}}",
+                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6/SpeedTest-v6.6.0-darwin-x64.dmg}}"
                         ]
                     }
                 ]
-            },             
+            },
             {
                 "version": "{{6.5.1}}",
                 "updateDate": "{{2016.03.28}}",
