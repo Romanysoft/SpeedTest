@@ -21,6 +21,21 @@
 
 ***
 
+[SpeedTest 6.6.4](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-14
+
+* [Bug] Fixed communicates with the server to get the problem of inaccurate delay time.
+* [Bug] Fixed occurred in obtaining the parameters of cotton.
+* [Bug] Fixed all servers data and map are not updated.
+* [Bug] Fixed server name is incorrect.
+* [Bug] Fixed there was a jamming and communicating with the remote server is not responding problem.
+* [Bug] Fixed user interface lock problem.
+* [Bug] Fixed user interface display error.
+* [Bug] Fixed temporary and all history shows time is not the right question.
+* [Improve] Provisional and all historical records of the new peak download speed and upload speed tests show.
+* [Improve] Fixed user interface interacts with the test server engine failed problem.
+* [Improve] Optimize the process of download and upload speed test engine, Improve the download and upload speed test accuracy.
+
+
 [SpeedTest 6.6.1](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-08-15
 
 * [Bugs] Fixed some bugs.
