@@ -21,6 +21,17 @@
 
 ***
 
+---
+
+[SpeedTest 6.6.5](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-20
+
+* [Improvement] To preheat the optimal server testing, as far as possible exclude invalid server.
+* [Improved] Improved detection mechanisms is not responding, no response from the quick fix test.
+* [Bug] Fixed engine caches the data validation error
+* [Bug] Fixed other bugs
+* [New] Add feedback feature.
+
+
 [SpeedTest 6.6.4](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-14
 
 * [Bug] Fixed communicates with the server to get the problem of inaccurate delay time.
