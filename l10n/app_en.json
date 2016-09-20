@@ -58,6 +58,39 @@
         "labelVersion": "Version",
         "list": [
             {
+                "version": "{{6.6.5}}",
+                "updateDate": "{{2016.09.20}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{SpeedTest-v6.6.5-win32-ia32-setup.exe (32 bit)}}",
+                        "size": "{{49.8MB}}",
+                        "downURL": [
+                            "{{https://www.filefactory.com/file/2gblyzrk9p7j/SpeedTest-v6.6.5-win32-ia32-setup.exe}}",
+                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6.5/SpeedTest-v6.6.5-win32-ia32-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{SpeedTest-v6.6.5-win32-x64-setup.exe (64 bit)}}",
+                        "size": "{{56.1MB}}",
+                        "downURL": [
+                            "{{https://www.filefactory.com/file/6kowgbr9zppl/SpeedTest-v6.6.5-win32-x64-setup.exe}}",
+                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6.5/SpeedTest-v6.6.5-win32-x64-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest-v6.6.5-darwin-x64.zip (MacOSX 64 bit)}}",
+                        "size": "{{20.6MB}}",
+                        "downURL": [
+                            "{{https://www.filefactory.com/file/2hkin0yjy9cx/SpeedTest-v6.6.5-darwin-x64.zip}}",
+                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6.5/SpeedTest-v6.6.5-darwin-x64.zip}}"
+                        ]
+                    }
+                ]
+            },             
+            {
                 "version": "{{6.6.4}}",
                 "updateDate": "{{2016.09.14}}",
                 "zipList": [
