@@ -21,7 +21,6 @@
 
 ***
 
----
 
 [SpeedTest 6.6.5](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-20
 
