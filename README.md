@@ -21,6 +21,13 @@
 
 ***
 
+[SpeedTest 6.6.6](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-25
+
+* [Bug] fix stuck exception.
+* [improved] best server, using cache mechanism to facilitate frequent user testing.
+* [improved] download and upload speed test, test average process optimization.
+
+
 
 [SpeedTest 6.6.5](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-20
 
