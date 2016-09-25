@@ -66,7 +66,7 @@
                         "name": "{{SpeedTest-v6.6.6-win32-ia32-setup.exe (32 bit)}}",
                         "size": "{{52.2MB}}",
                         "downURL": [
-                            "{{https://www.filefactory.com/file/6yv0ypknxzcn/SpeedTest-v6.6.6-win32-ia32-setup.exe}}",
+                            "{{https://www.filefactory.com/file/6mla4v0p7ewt/SpeedTest-v6.6.6-win32-ia32-setup.exe}}",
                             "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6.6/SpeedTest-v6.6.6-win32-ia32-setup.exe}}"
                         ]
                     },
@@ -75,7 +75,7 @@
                         "name": "{{SpeedTest-v6.6.6-win32-x64-setup.exe (64 bit)}}",
                         "size": "{{58.8MB}}",
                         "downURL": [
-                            "{{https://www.filefactory.com/file/4owrf1a4sw8b/SpeedTest-v6.6.6-win32-x64-setup.exe}}",
+                            "{{https://www.filefactory.com/file/6l9xexnz74nn/SpeedTest-v6.6.6-win32-x64-setup.exe}}",
                             "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6.6/SpeedTest-v6.6.6-win32-x64-setup.exe}}"
                         ]
                     },
@@ -84,7 +84,7 @@
                         "name": "{{SpeedTest-v6.6.6-darwin-x64.zip (MacOSX 64 bit)}}",
                         "size": "{{21.7MB}}",
                         "downURL": [
-                            "{{https://www.filefactory.com/file/44gwx2mt9lb3/SpeedTest-v6.6.6-darwin-x64.zip}}",
+                            "{{https://www.filefactory.com/file/646toj11yp43/SpeedTest-v6.6.6-darwin-x64.zip}}",
                             "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.6.6/SpeedTest-v6.6.6-darwin-x64.zip}}"
                         ]
                     }
