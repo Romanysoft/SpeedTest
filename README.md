@@ -21,6 +21,13 @@
 
 ***
 
+
+
+[SpeedTest 6.6.7](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-10-02
+
+* [Bug] fixed some bugs.
+
+
 [SpeedTest 6.6.6](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-25
 
 * [Bug] fixed stuck exception.
