@@ -1,7 +1,7 @@
 
 ![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,h_128/v1413431600/logo5_a5zbpb.png)
 
-[Romanysoft Speed Test WebSite](http://romanysoft.github.io/SpeedTest/) 
+[***Romanysoft Speed Test*** WebSite](http://romanysoft.github.io/SpeedTest/) 
 
 
 ***Romanysoft Speed Test*** app. To start working immediately with speed test, just click "Start" and in few seconds you'll get your internet speed results.
