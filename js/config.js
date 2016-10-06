@@ -1,8 +1,8 @@
 (function () {
     window.RTYConfig = {
-        appName:"SpeedTest",
+        appName:"Romanysoft Speed Test",
         appID:"com.romanysoft.app.macos.speedtest",
-        documentTitle:"SpeedTest By Romanysoft",
+        documentTitle:"Romanysoft Speed Test",
         supportPlatforms:["Mac","Windows"],
         googleUA:"UA-76676167-6",
         gitHome:"//github.com/Romanysoft/SpeedTest",
