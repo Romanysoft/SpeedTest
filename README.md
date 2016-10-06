@@ -16,6 +16,9 @@
 
 ***
 
+[![](http://romanysoft.github.io/SpeedTest/images/screens/common/c1.jpg)](http://romanysoft.github.io/SpeedTest)
+[![](http://romanysoft.github.io/SpeedTest/images/screens/common/c6.jpg)](http://romanysoft.github.io/SpeedTest)
+[![](http://romanysoft.github.io/SpeedTest/images/screens/common/c7.jpg)](http://romanysoft.github.io/SpeedTest)
 
 
 [Romanysoft Speed Test 6.6.7](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-10-02
@@ -60,9 +63,7 @@
 * [Bugs] Fixed some bugs.
 * [Upgrade] engine upgrade.
 
-[![](http://romanysoft.github.io/SpeedTest/images/screens/common/c1.jpg)](http://romanysoft.github.io/SpeedTest)
-[![](http://romanysoft.github.io/SpeedTest/images/screens/common/c6.jpg)](http://romanysoft.github.io/SpeedTest)
-[![](http://romanysoft.github.io/SpeedTest/images/screens/common/c7.jpg)](http://romanysoft.github.io/SpeedTest)
+
 
 
 
