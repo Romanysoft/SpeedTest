@@ -12,7 +12,7 @@
 * (4) Complete network detection results
 * (5) Convenient interface interaction
 * (6) Support for testing control
-* (7) Support OS X 10.6-10.10 system
+* (7) Support OS X 10.7-10.12 system
 
 ***
 
