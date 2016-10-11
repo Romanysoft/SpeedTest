@@ -1,6 +1,6 @@
 (function () {
     window.RTYConfig = {
-        appName:"Romanysoft Speed Test",
+        appName:"Romanysoft Speed19X",
         appID:"com.romanysoft.app.macos.speedtest",
         documentTitle:"Romanysoft Speed Test",
         supportPlatforms:["Mac","Windows"],
