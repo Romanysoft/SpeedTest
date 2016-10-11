@@ -2,7 +2,7 @@
     window.RTYConfig = {
         appName:"Romanysoft Speed19X",
         appID:"com.romanysoft.app.macos.speedtest",
-        documentTitle:"Romanysoft Speed Test",
+        documentTitle:"Romanysoft Speed19X",
         supportPlatforms:["Mac","Windows"],
         googleUA:"UA-76676167-6",
         gitHome:"//github.com/Romanysoft/SpeedTest",
