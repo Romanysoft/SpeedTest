@@ -1,10 +1,10 @@
 
 ![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,h_128/v1413431600/logo5_a5zbpb.png)
 
-[***Romanysoft Speed Test*** WebSite](http://romanysoft.github.io/SpeedTest/) 
+[***Romanysoft Speed19X*** WebSite](http://romanysoft.github.io/SpeedTest/) 
 
 
-***Romanysoft Speed Test*** app. To start working immediately with speed test, just click "Start" and in few seconds you'll get your internet speed results.
+***Romanysoft Speed19X*** app. To start working immediately with speed test, just click "Start" and in few seconds you'll get your internet speed results.
 
 * (1) Best server location, sampling testing and feedback the ping response time
 * (2) Sampling inspection network download bandwidth speed
@@ -20,13 +20,17 @@
 [![](http://romanysoft.github.io/SpeedTest/images/screens/common/c6.jpg)](http://romanysoft.github.io/SpeedTest)
 [![](http://romanysoft.github.io/SpeedTest/images/screens/common/c7.jpg)](http://romanysoft.github.io/SpeedTest)
 
+[Romanysoft Speed19X 6.7.1](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-10-11
 
-[Romanysoft Speed Test 6.6.7](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-10-02
+* [Bug] kernel upgrade
+* [Bug] fixed some bugs.
+
+[Romanysoft Speed19X 6.6.7](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-10-02
 
 * [Bug] fixed some bugs.
 
 
-[Romanysoft Speed Test 6.6.6](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-25
+[Romanysoft Speed19X 6.6.6](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-25
 
 * [Bug] fixed stuck exception.
 * [Improved] best server, using cache mechanism to facilitate frequent user testing.
@@ -34,7 +38,7 @@
 
 
 
-[Romanysoft Speed Test 6.6.5](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-20
+[Romanysoft Speed19X 6.6.5](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-20
 
 * [Improvement] To preheat the optimal server testing, as far as possible exclude invalid server.
 * [Improved] Improved detection mechanisms is not responding, no response from the quick fix test.
@@ -43,7 +47,7 @@
 * [New] Add feedback feature.
 
 
-[Romanysoft Speed Test 6.6.4](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-14
+[Romanysoft Speed19X 6.6.4](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-09-14
 
 * [Bug] Fixed communicates with the server to get the problem of inaccurate delay time.
 * [Bug] Fixed occurred in obtaining the parameters of cotton.
@@ -58,7 +62,7 @@
 * [Improve] Optimize the process of download and upload speed test engine, Improve the download and upload speed test accuracy.
 
 
-[Romanysoft Speed Test 6.6.1](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-08-15
+[Romanysoft Speed19X 6.6.1](http://romanysoft.github.io/SpeedTest/versions.html#) - 2016-08-15
 
 * [Bugs] Fixed some bugs.
 * [Upgrade] engine upgrade.
