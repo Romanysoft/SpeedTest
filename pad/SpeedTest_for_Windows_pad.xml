@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.789</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://publisher.appvisor.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+    <CERTIFIED>No</CERTIFIED>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-C0008D5A4EE9</Company_UIN>
+    <Company_Description></Company_Description>
+    <Product_UIN>APP-010A11147A1</Product_UIN>
+    <Search_String>Romanysoft Speed19X for Windows</Search_String>
+    <Press_Release_Search_String>Romanysoft Speed19X for Windows</Press_Release_Search_String>
+    <NewsFeed_Search_String>Romanysoft Speed19X for Windows</NewsFeed_Search_String>
+    <Search_Engine_Search_String>Romanysoft Speed19X for Windows</Search_Engine_Search_String>
+    <Web_Directories_Search_String>Romanysoft Speed19X for Windows</Web_Directories_Search_String>
+    <Search_String_Unique>Romanysoft Speed19X for Windows</Search_String_Unique>
+    <Publish_on_CD>FALSE</Publish_on_CD>
+    <RSProductType></RSProductType>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>Romanysoft</Company_Name>
+    <Address_1>12 Segun Bagicha, 10th Floor</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Cupertino</City_Town>
+    <State_Province>Cupertino</State_Province>
+    <Zip_Postal_Code>CA 95014</Zip_Postal_Code>
+    <Country>United States of America</Country>
+    <Company_WebSite_URL>https://www.romanysoft.com</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Ian</Contact_First_Name>
+      <Contact_Last_Name>sun</Contact_Last_Name>
+      <Contact_Email>app.romanysoft@gmail.com</Contact_Email>
+      <Author_First_Name>Ian</Author_First_Name>
+      <Author_Last_Name>sun</Author_Last_Name>
+      <Author_Email>app.romanysoft@gmail.com</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>app.romanysoft@gmail.com</Sales_Email>
+      <Support_Email>app.romanysoft@gmail.com</Support_Email>
+      <General_Email>app.romanysoft@gmail.com</General_Email>
+      <Sales_Phone>+86 15050228829</Sales_Phone>
+      <Support_Phone>+86 15050228829</Support_Phone>
+      <General_Phone>+86 15050228829</General_Phone>
+      <Fax_Phone>+86 15050228829</Fax_Phone>
+    </Support_Info>
+    <GooglePlusPage></GooglePlusPage>
+    <LinkedinPage></LinkedinPage>
+    <TwitterCompanyPage></TwitterCompanyPage>
+    <FacebookCompanyPage>https://www.facebook.com/romanysoft</FacebookCompanyPage>
+    <CompanyStorePage>https://shopper.mycommerce.com/checkout/cart/add/55399-1?quantity=1&amp;linkid=rs</CompanyStorePage>
+    <PublisherID>pid-b0002c762ee9</PublisherID>
+    <BrandID>bid-c0008d5a4ee9</BrandID>
+  </Company_Info>
+  <Program_Info>
+    <AppID>app-9600aae2a51b</AppID>
+    <Program_Target_Platform>OS X</Program_Target_Platform>
+    <Program_Name>Romanysoft Speed19X for Windows</Program_Name>
+    <Program_Version>6.7.1</Program_Version>
+    <Program_Release_Month>10</Program_Release_Month>
+    <Program_Release_Day>11</Program_Release_Day>
+    <Program_Release_Year>2016</Program_Release_Year>
+    <Program_Cost_Dollars>5.99</Program_Cost_Dollars>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win7 x32,Win7 x64,Windows2003,Windows 10,Windows 8</Program_OS_Support>
+    <Program_Language>English,Abkhazian,Afar,Afrikaans,Albanian,Amharic,Arabic,Armenian,Assamese,Aymara,Azerbaijani,Bashkir,Basque,Bengali,Bhutani,Bihari,Bislama,Breton,Bulgarian,Burmese,Byelorussian,Cambodian,Catalan,Chinese,ChineseSimplified,ChineseTraditional,Corsican,Croatian,Czech,Danish,Dutch,Esperanto,Estonian,Faeroese,Fiji,Finnish,French,Frisian,Gaelic,Galician,Georgian,German,Greek,Greenlandic,Guarani,Gujarati,Hausa,Hebrew,Hindi,Hungarian,Icelandic,Indonesian,Interlingua,Interlingue,Inupiak,Irish,Italian,Japanese,Javanese,Kannada,Kashmiri,Kazakh,Kinyarwanda,Kirghiz,Kirundi,Korean,Kurdish,Laothian,Latin,Latvian,Lingala,Lithuanian,Macedonian,Malagasy,Malay,Malayalam,Maltese,Maori,Marathi,Moldavian,Mongolian,Nauru,Nepali,Norwegian,Occitan,Oriya,Oromo,Other,Pashto,Persian,Polish,Portuguese,Punjabi,Quechua,Rhaeto-Romance,Romanian,Russian,Samoan,Sangro,Sanskrit,Serbian,Serbo-Croatian,Sesotho,Setswana,Shona,Sindhi,Singhalese,Siswati,Slovak,Slovenian,Somali,Spanish,Sudanese,Swahili,Swedish,Tagalog,Tajik,Tamil,Tatar,Telugu,Thai,Tibetan,Tigrinya,Tonga,Tsonga,Turkish,Turkmen,Twi,Ukrainian,Urdu,Uzbek,Vietnamese,Volapuk,Welsh,Wolof,Xhosa,Yiddish,Yoruba,Zulu</Program_Language>
+    <Program_Change_Info>[New] Changed app name.
+[Upgrade] Kernel upgrade.
+[Bugs] Fixed some bugs.</Program_Change_Info>
+    <Program_Category_Class>System Utilities::System Maintenance</Program_Category_Class>
+    <File_Info>
+      <File_Size_Bytes>52212736</File_Size_Bytes>
+      <File_Size_K>50989</File_Size_K>
+      <File_Size_MB>49.79</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>Y</Has_Expire_Info>
+      <Expire_Count>3</Expire_Count>
+      <Expire_Based_On>Uses</Expire_Based_On>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>Internet :: Network Tools,Utilities :: Network Utilities</Program_Categories>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Program_System_Requirements></Program_System_Requirements>
+    <Limitations></Limitations>
+    <Awards></Awards>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+    <FacebookProductPage></FacebookProductPage>
+    <GooglePlusProductPage></GooglePlusProductPage>
+  </Program_Info>
+  <Download_Link_Points_To_Non_Binary_File>TRUE</Download_Link_Points_To_Non_Binary_File>
+  <Temp_Icon>https://cdnjs.cloudflare.com/ajax/libs/fatcow-icons/20130425/FatCow_Icons32x32/application.png</Temp_Icon>
+  <PAD_Certification_Promotion>
+    <Apply_For_Certification>N</Apply_For_Certification>
+  </PAD_Certification_Promotion>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+  </Dynamic_PAD>
+  <ASBMPlannerID1stRound>2</ASBMPlannerID1stRound>
+  <Issues>12</Issues>
+  <Web_Info>
+    <Application_URLs>
+      <Video_Link_1_URL>https://youtu.be/KtJapnb8ssA</Video_Link_1_URL>
+      <Application_Info_URL>https://romanysoft.github.io/SpeedTest</Application_Info_URL>
+      <Application_Order_URL>https://shopper.mycommerce.com/checkout/cart/add/55399-47</Application_Order_URL>
+      <Application_Screenshot_URL>https://romanysoft.github.io/SpeedTest/images/screens/common/win_1_800x600.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://romanysoft.github.io/SpeedTest/images/ico/logo_32.gif</Application_Icon_URL>
+      <Application_XML_File_URL>https://romanysoft.github.io/SpeedTest/pad/SpeedTest_for_Windows_pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://www.filefactory.com/file/19g1es937x3r/SpeedTest-v6.7.1-win32-ia32-setup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://romanysoft.github.io/SpeedTest/versions</Secondary_Download_URL>
+      <Additional_Download_URL_1>http://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.7.1/SpeedTest-v6.7.1-win32-ia32-setup.exe</Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <ASBMPlannerID2ndRound>3</ASBMPlannerID2ndRound>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>app.romanysoft@gmail.com</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Ian</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>sun</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <Permissions>
+    <Distribution_Permissions></Distribution_Permissions>
+    <EULA></EULA>
+  </Permissions>
+  <AppStore>
+    <AppStore_AppID></AppStore_AppID>
+    <AppStore_Category></AppStore_Category>
+    <AppStore_Info_URL></AppStore_Info_URL>
+    <AppStore_Download_URL></AppStore_Download_URL>
+    <AppStore_Promo_Code_1></AppStore_Promo_Code_1>
+    <AppStore_Promo_Code_2></AppStore_Promo_Code_2>
+    <AppStore_Promo_Code_3></AppStore_Promo_Code_3>
+    <AppStore_Supported_Devices></AppStore_Supported_Devices>
+    <AppStore_Other_Applications></AppStore_Other_Applications>
+    <AppStore_Advantages_And_Unique_Features></AppStore_Advantages_And_Unique_Features>
+    <AppStore_Awards_And_Ratings></AppStore_Awards_And_Ratings>
+  </AppStore>
+  <Program_Descriptions>
+    <English>
+      <Keywords>speed, network speed, download, upload, ping, download speed, upload speed, speed19x</Keywords>
+      <Char_Desc_45>Now check your internet speed.</Char_Desc_45>
+      <Char_Desc_80>Now check your internet speed.</Char_Desc_80>
+      <Char_Desc_250>Now check your internet spee Use Romanysoft Speed19X to test the speed accurately.</Char_Desc_250>
+      <Char_Desc_450>Now check your internet spee Use Romanysoft Speed19X to test the speed accurately.   Main Features  Best server location, sampling testing and feedback the ping response time. Sampling inspection network download bandwidth speed Sampling inspection network upload bandwidth speed Complete network detection results</Char_Desc_450>
+      <Char_Desc_2000>Now check your internet spee Use Romanysoft Speed19X to test the speed accurately.  
+
+Main Features
+
+Best server location, sampling testing and feedback the ping response time.
+Sampling inspection network download bandwidth speed
+Sampling inspection network upload bandwidth speed
+Complete network detection results
+
+Now check your internet spee Use Romanysoft Speed19X to test the speed accurately.  
+
+Main Features
+
+Best server location, sampling testing and feedback the ping response time.
+Sampling inspection network download bandwidth speed
+Sampling inspection network upload bandwidth speed
+Complete network detection results</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>
