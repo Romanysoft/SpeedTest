@@ -50,6 +50,39 @@
         "labelVersion": "Version",
         "list": [
             {
+                "version": "{{6.7.2}}",
+                "updateDate": "{{2016.10.30}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Romanysoft Speed19X v6.7.2-win32-ia32-setup.exe (32 bit)}}",
+                        "size": "{{52.8MB}}",
+                        "downURL": [
+                            "{{http://www.filefactory.com/file/425o7qtejmtp/SpeedTest-v6.7.2-win32-ia32-setup.exe}}",
+                            "{{http://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.7.2/SpeedTest-v6.7.2-win32-ia32-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Romanysoft Speed19X v6.7.2-win32-x64-setup.exe (64 bit)}}",
+                        "size": "{{59.4MB}}",
+                        "downURL": [
+                            "{{http://www.filefactory.com/file/5uxw6nu4mn5n/SpeedTest-v6.7.2-win32-x64-setup.exe}}",
+                            "{{http://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.7.2/SpeedTest-v6.7.2-win32-x64-setup.exe}}"
+                        ]
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{Romanysoft Speed19X v6.7.2-darwin-x64.zip (MacOSX 64 bit)}}",
+                        "size": "{{22.6MB}}",
+                        "downURL": [
+                            "{{http://www.filefactory.com/file/2cxy3474v0pb/SpeedTest-v6.7.2-darwin-x64.zip}}",
+                            "{{http://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.7.2/SpeedTest-v6.7.2-darwin-x64.zip}}"
+                        ]
+                    }
+                ]
+            },             
+            {
                 "version": "{{6.7.1}}",
                 "updateDate": "{{2016.10.11}}",
                 "zipList": [
