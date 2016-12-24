@@ -60,9 +60,9 @@
     <AppID>app-9600aae2a51b</AppID>
     <Program_Target_Platform>OS X</Program_Target_Platform>
     <Program_Name>Romanysoft Speed19X for Mac</Program_Name>
-    <Program_Version>6.7.1</Program_Version>
+    <Program_Version>6.7.2</Program_Version>
     <Program_Release_Month>10</Program_Release_Month>
-    <Program_Release_Day>11</Program_Release_Day>
+    <Program_Release_Day>30</Program_Release_Day>
     <Program_Release_Year>2016</Program_Release_Year>
     <Program_Cost_Dollars>5.99</Program_Cost_Dollars>
     <Program_Type>Shareware</Program_Type>
@@ -155,24 +155,25 @@
       <DP_Distributive_Mask>SpeedTest-v6.5.1-darwin-x64.zip</DP_Distributive_Mask>
     </General>
   </Dynamic_PAD>
-  <ASBMPlannerID1stRound>17</ASBMPlannerID1stRound>
-  <Issues>0</Issues>
+  <ASBMPlannerID1stRound>2</ASBMPlannerID1stRound>
+  <Issues>12</Issues>
   <Web_Info>
     <Application_URLs>
+      <Video_Link_1_URL>https://youtu.be/KtJapnb8ssA</Video_Link_1_URL>
       <Application_Info_URL>https://romanysoft.github.io/SpeedTest</Application_Info_URL>
       <Application_Order_URL>https://shopper.mycommerce.com/checkout/cart/add/55399-1</Application_Order_URL>
       <Application_Screenshot_URL>https://romanysoft.github.io/SpeedTest/images/screens/common/c1_800x600.jpg</Application_Screenshot_URL>
       <Application_Icon_URL>https://romanysoft.github.io/SpeedTest/images/ico/logo_32.gif</Application_Icon_URL>
-      <Video_Link_1_URL>https://youtu.be/KtJapnb8ssA</Video_Link_1_URL>
       <Application_XML_File_URL>https://romanysoft.github.io/SpeedTest/pad/SpeedTest_for_Mac_pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>http://www.filefactory.com/file/fgyn4iouzc5/SpeedTest-v6.7.1-darwin-x64.zip</Primary_Download_URL>
+      <Primary_Download_URL>http://www.filefactory.com/file/2cxy3474v0pb/SpeedTest-v6.7.2-darwin-x64.zip</Primary_Download_URL>
       <Secondary_Download_URL>https://romanysoft.github.io/SpeedTest/versions.html</Secondary_Download_URL>
-      <Additional_Download_URL_1>http://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.7.1/SpeedTest-v6.7.1-darwin-x64.zip</Additional_Download_URL_1>
+      <Additional_Download_URL_1>http://github.com/Romanysoft/AppShareFile/raw/master/apps/SpeedTest/6.7.2/SpeedTest-v6.7.2-darwin-x64.zip</Additional_Download_URL_1>
       <Additional_Download_URL_2></Additional_Download_URL_2>
     </Download_URLs>
   </Web_Info>
+  <ASBMPlannerID2ndRound>3</ASBMPlannerID2ndRound>
   <Permissions>
     <Distribution_Permissions></Distribution_Permissions>
     <EULA></EULA>
