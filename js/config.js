@@ -10,6 +10,12 @@
         changeLogUrl:"//github.com/Romanysoft/SpeedTest/wiki/Changelog",
         wikiUrl:"//github.com/Romanysoft/SpeedTest/wiki",
         romanysoftHome:"//www.romanysoft.com",
+        jumpLocation:"https://www.romanysoft.net/speed19x/",
         copyright:"Copyright © " + (new Date()).getFullYear() + " Romanysoft LAB."
     }
+    
+    if(window.RTYConfig.jumpLocation){
+        window.location = window.RTYConfig.jumpLocation;
+    }
+    
 })();
