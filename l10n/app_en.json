@@ -49,6 +49,18 @@
     "VersionPage": {
         "labelVersion": "Version",
         "list": [
+                        {
+                "version": "{{7.0.0}}",
+                "updateDate": "{{2017.12.13}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest for Mac v7.0.0-darwin-x64.zip (MacOSX 64 bit)}}",
+                        "size": "{{19.1MB}}",
+                        "downURL": "{{https://aws.romanysoft.com/download/speed-test/speedtest-v7.0.0-mac.dmg}}"
+                    }
+                ]
+            },
             {
                 "version": "{{6.7.2}}",
                 "updateDate": "{{2016.10.30}}",
