@@ -50,6 +50,30 @@
         "labelVersion": "Version",
         "list": [
             {
+                "version": "{{7.0.2}}",
+                "updateDate": "{{2017.12.19}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest for Mac v7.0.2-darwin-x64.zip (MacOSX 64 bit)}}",
+                        "size": "{{19.1MB}}",
+                        "downURL": "{{https://aws.romanysoft.com/download/speed-test/speedtest-v7.0.2-mac.dmg}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{7.0.1}}",
+                "updateDate": "{{2017.12.18}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{SpeedTest for Mac v7.0.1-darwin-x64.zip (MacOSX 64 bit)}}",
+                        "size": "{{19.1MB}}",
+                        "downURL": "{{https://aws.romanysoft.com/download/speed-test/speedtest-v7.0.1-mac.dmg}}"
+                    }
+                ]
+            },
+            {
                 "version": "{{7.0.0}}",
                 "updateDate": "{{2017.12.13}}",
                 "zipList": [
